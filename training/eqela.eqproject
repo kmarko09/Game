@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# training
+#
+
+projectname: training
+vendorid: com.mycompany
+mainmodule: com.mycompany.training
